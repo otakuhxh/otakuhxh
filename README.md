@@ -103,5 +103,9 @@ También cuento con experiencia en gestión de accesos y seguridad informática 
 </div>
 
 <h1 align="left">🌐 Conecta Conmigo</h1><p align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiffany-andrea-jordan-uquillas)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tiffany-jordan-uquillas" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+</p>
